@@ -1,0 +1,20 @@
+{
+	"mainURL": "https://cppss.netlify.app",
+	"repositoryName": "sSnq1777/cpclientcpsss",
+	"discordRpc": {
+		"enable": false,
+		"discordAppId": "995035289263292426",
+		"activityTitle": "Secret Agency Club Penguin",
+		"activityDescription": "Jugando club penguin!",
+		"buttons": [
+			{
+				"label": "Club Penguin Posse",
+				"url": "https://discord.gg/tz7ufGjAxy"
+			}
+		]
+	},
+	"windowSettings": {
+		"width": 1280,
+		"height": 720
+	}
+}
